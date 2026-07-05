@@ -1,7 +1,5 @@
 <?php
 
-// $logFile = __DIR__ . '/curl.log';
-
 $fp = fopen(__DIR__ . '/curl.log', 'a');
 
 $postData = [
